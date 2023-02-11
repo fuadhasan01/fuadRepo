@@ -2,3 +2,4 @@ This is a demo file in github
 This is the last change of the project
 This is the remote change for this file
 This text from feature branch
+This text from newbranchfromgithub branch
